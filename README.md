@@ -7,12 +7,19 @@ TOOLS INI DIBUAT SEMATA-MATA HANYA UNTUK PEMBELAJARAN, BUKAN UNTUK TINDAKAN KRIM
 cara installnya liat di yt yak om yt: Limit Queen Project
 
 pkg upgrade
+
 pkg update
+
 pkg install git
+
 pkg install figlet
+
 pkg install lolcat
+
 pkg install nano
+
 pkg install python
+
 pkg install python2-dev
 
 git clone https://github.com/LimitQueenProject/iglimit
