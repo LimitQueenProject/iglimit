@@ -1,0 +1,77 @@
+#!/usr/bin/bash
+#//Script Kiddies//
+kiddies='\e[1;31m'
+kiddes='\e[1;33m'
+clear
+echo ""
+figlet "DnyTX_HcKd
+" | lolcat
+echo -e $kiddes "
+           HC]
+          H]]]]
+        H]]]]]]4
+      @C]]]]]]]]*
+     @]]]]]]]]]]xd
+    @]]]]]]]]]]]]]d               
+   0]]]]]]]]]]]]]]]]      
+   kx]]]]]]x]]x]]]]]%     
+  #x]]]]]]]]]]]]]x]]]d    
+  #]]]]]]qW  x]]x]]]]]4  
+  k]x]]xg     %x]]]]]]%   
+  Wx]]]W       x]]]]]]]   
+  #]]]4         xx]]x]]   
+   px]           ]]]]]x   
+   Wx]           x]]x]]   
+    &x           x]]]]
+     m           x]]]]
+                 x]x]
+                 x]]]
+                ]]]]
+                x]x
+               x]q
+               ]g
+              q
+
+TOOLS INI DIBUAT
+SEMATA-MATA HANYA UNTUK
+PEMBELAJARAN, BUKAN UNTUK TINDAKAN
+KRIMINAL ATAU MENCARI
+KEUNTUNGAN.
+SAYA TIDAK BERTANGGUNG JAWAB
+ATAS MASALAH APAPUN YG
+TERJADI NANTINYA AKIBAT DARI
+AKSI ANDA DALAM MENGGUNAKAN
+TOOLS fbbrute INI. Terima
+Kasih."
+echo "   ingat gunakan tools ini dengan bijak" | lolcat
+echo -e $kiddies"
+<x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+>" 
+
+echo "
+ [ EXECUTION ] konfirmasi penyerangan
+" | lolcat
+ 
+echo -e $kiddies"
+<x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+>
+"
+
+read -p " [konfirmasi]> " insta;
+
+
+if [ $insta = EXECUTION ] || [ $insta = EXECUTION ]
+then
+echo "
+#############################"
+
+echo "
+█████████
+█▄█████▄█
+█▼▼▼▼▼
+█     bruteforce attack process
+█▲▲▲▲▲
+█████████
+ ██ ██
+" | lolcat
+
+python2 iglimit.py;
+fi
