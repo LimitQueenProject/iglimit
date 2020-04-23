@@ -3,6 +3,7 @@ from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from mechanize import Browser
 
+os.system ('clear')
 print ("\33[32;1m")
 print ("woy romlah")
 time.sleep(1)
