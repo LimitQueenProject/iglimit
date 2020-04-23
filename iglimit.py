@@ -1,8 +1,6 @@
 import time
 import os, sys, random
 
-green=\33[32;1m
-red=\33[31;1m
 print (“\33[32;1m”)
 print (“woy pantek")
 time.sleep(3)
